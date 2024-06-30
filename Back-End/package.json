@@ -1,0 +1,34 @@
+{
+  "name": "back-end",
+  "version": "1.0.0",
+  "description": "Node.js Rest Apis of SOIL implemented with Express, Sequelize & Cloud MySQL",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "sequelize",
+    "mysql",
+    "rest",
+    "api",
+    "graphql"
+  ],
+  "author": "umesha and mingjian",
+  "license": "ISC",
+  "dependencies": {
+    "@2toad/profanity": "^2.2.0",
+    "apollo-server-express": "^3.13.0",
+    "argon2": "^0.40.1",
+    "bcryptjs": "^2.4.3",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "lodash": "^4.17.21",
+    "graphql-subscriptions": "^2.0.0",
+    "graphql-ws": "^5.16.0",
+    "mysql2": "^3.9.7",
+    "sequelize": "^6.37.3",
+    "ws": "^8.17.0"
+  }
+}

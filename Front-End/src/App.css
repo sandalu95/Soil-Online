@@ -1,0 +1,107 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.custom-nav-link {
+  color: #469a4e !important;
+  /* Default link color */
+  text-decoration: none;
+}
+
+.custom-nav-link:hover {
+  color: #2a6d37 !important;
+  /* Change link color on hover */
+  text-decoration: none;
+}
+
+/* Customized Bootstrap button with color theme similar to #469a4e */
+.btn-custom {
+  color: #fff !important;
+  background-color: #469a4e !important;
+  border-color: #469a4e !important;
+  border-radius: 8px !important;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.btn-custom:hover {
+  color: #fff !important;
+  background-color: #5cbf6f !important;
+  /* Lighter shade for hover */
+  border-color: #5cbf6f !important;
+  border-radius: 8px !important;
+}
+
+.btn-custom:focus,
+.btn-custom.focus {
+  color: #fff;
+  background-color: #5cbf6f;
+  /* Lighter shade for focus */
+  border-color: #5cbf6f;
+
+}
+
+.btn-custom:active,
+.btn-custom.active {
+  color: #fff;
+  background-color: #3e8344;
+  /* Darker shade for active */
+  border-color: #3e8344;
+
+}
+
+.btn-custom.disabled,
+.btn-custom:disabled {
+  cursor: not-allowed;
+  color: #fff;
+  background-color: #469a4e;
+  /* Same as default background color for disabled state */
+  border-color: #469a4e;
+}
+
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.footer-div {
+  background-color: #f0f4d1;
+  margin-top: auto;
+}

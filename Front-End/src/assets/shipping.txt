@@ -1,0 +1,16 @@
+title:Shipping Information
+introduction:At SOIL, we understand the importance of efficient and reliable shipping to ensure your organic products reach you in a timely manner. Below, we outline our shipping policies and procedures to provide you with a seamless shopping experience.
+heading:Shipping Costs
+content:We offer shipping to virtually any address within Australia. Our shipping costs are calculated based on your preferred delivery option and the weight of the items in your order. Please note that all weights will be rounded up to the next full kilogram to reflect the policies of the shipping companies we use.
+content:- Metro Australia Wide: Starting from $6.95
+content:- Non Metro Australia Wide (not remote): Starting from $8.95
+content:- Remote Areas: Starting from $10.95
+heading:Free Shipping Policy
+content:While we do not offer free shipping, we provide a $6.95 discount towards your shipping costs when you spend $99 or more on products. This discount is automatically applied in your shopping cart. Additionally, for orders exceeding $300, an extra $6.95 discount will be applied.
+heading:Shipping Policy
+content:We strive to dispatch all orders within 48 hours. However, items sold at a discounted price or during sales may take longer to dispatch, as they are shipped directly from our suppliers. We order regularly from four major organic distributors and manufacturers across Australia, which may result in a dispatch delay of up to 2-3 business days due to interstate delivery times.
+content:If you have urgent requirements for certain items, please indicate any deadlines in the comments section of your order so we can prioritize your delivery accordingly.
+heading:Shipping Carriers
+content:Currently, we exclusively use Australia Post for all deliveries. Please note that Australia Post services are not covered by insurance, and any damage or loss of parcels after they have been scanned as "left SOIL" is solely at the buyer's risk.
+content:While we provide up to $50 cover for damaged or lost products during transit, customers are required to cover the costs of reshipping any items not covered by additional insurance purchased on deliveries. Loss and damage during transit are minimal, but we take meticulous care in packing items to ensure their safe arrival.
+conclusion:Please be aware that Australia Post delivery personnel are not equipped with mobile phones and will not contact you before delivering your parcel. If you have any concerns or require additional insurance for your shipment, please contact our team for assistance. Once dispatched, SOIL accepts no responsibility for delivery delays or parcel losses, although our team can help expedite locating missing or delayed deliveries through Australia Post inquiries.

@@ -1,0 +1,48 @@
+.home-banner {
+    position: relative;
+    height: 500px; /* Adjust height as needed */
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  
+  .banner-content h2 {
+    font-size: 36px; /* Adjust font size as needed */
+    margin-bottom: 20px; /* Adjust spacing as needed */
+  }
+  
+  .banner-content .btn {
+    margin-top: 20px; /* Adjust spacing as needed */
+  }
+
+  .banner-heading {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: 60px;
+    color: #264729;
+  }
+
+  .banner-title {
+    color: #469a4e
+  }
+
+  .banner-sub-title {
+    color: #264729;
+    margin: 20px 0;
+  }
+
+  .home-section {
+    margin: 40px 0;
+  }
+
+  .blog-tile{
+    margin: 25px 0;
+  }
+
+  .modal-dialog-centered.modal-dialog-scrollable .modal-content {
+    height: 45vh;
+  }
+  
